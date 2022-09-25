@@ -1,3 +1,3 @@
 module moul.io/openfiles
 
-go 1.13
+go 1.19
